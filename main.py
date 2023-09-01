@@ -1,4 +1,4 @@
 print("Hello world!")
-print("hello Git!")
+print("hello!")
 print("diana")
 print("h")
